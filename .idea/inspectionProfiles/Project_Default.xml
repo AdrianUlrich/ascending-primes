@@ -1,0 +1,34 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <option name="scopesOrder">
+      <list>
+        <option value="tests" />
+        <option value="not tests" />
+        <option value="All Changed Files" />
+        <option value="Changes" />
+        <option value="Controlled Burn" />
+        <option value="Open Files" />
+        <option value="PERSO" />
+        <option value="Project Files" />
+        <option value="Scratches and Consoles" />
+        <option value="Subclass Fields" />
+        <option value="Unnamed" />
+        <option value="YAPF annoyance" />
+        <option value="fluffy" />
+        <option value="in proj not tests" />
+        <option value="metaedittable" />
+        <option value="models" />
+        <option value="qc" />
+        <option value="subclass_models" />
+      </list>
+    </option>
+    <inspection_tool class="PyMissingOrEmptyDocstringInspection" enabled="true" level="INFORMATION" enabled_by_default="true">
+      <scope name="tests" level="INFORMATION" enabled="true" />
+      <scope name="All Changed Files" level="WEAK WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="PyUnusedLocalInspection" enabled="true" level="WEAK WARNING" enabled_by_default="false">
+      <scope name="not tests" level="WEAK WARNING" enabled="true" />
+    </inspection_tool>
+  </profile>
+</component>
